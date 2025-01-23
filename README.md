@@ -89,8 +89,7 @@ SoftLab é um protótipo para o cadastro de alunos e gerenciamento de projetos e
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/softlab.git
-   cd softlab
+   git clone https://github.com/felipecidade94/softlab
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
