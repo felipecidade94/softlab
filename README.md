@@ -39,8 +39,8 @@ SoftLab é um protótipo para o cadastro de alunos e gerenciamento de projetos e
 
 - Não há funcionalidade de envio de emails para recuperação de senhas.
 - A música de fundo e a imagem do logo devem estar no mesmo diretório do código para que o aplicativo funcione corretamente.
-- A música deve ter o nome **Contato Feliz.mp3**.
-- A imagem do logo deve ser chamada **Logo-7.png**.
+- A música deve ter o nome **Contato.mp3**.
+- A imagem do logo deve ser chamada **Logo.png**.
 
 ## Bibliotecas Utilizadas 📚
 
