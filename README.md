@@ -99,3 +99,8 @@ SoftLab é um protótipo para o cadastro de alunos e gerenciamento de projetos e
    .\venv\Scripts\activate  # Windows
    ```
 
+## Contato
+
+- [GitHub](https://github.com/felipecidade94)
+- [intagram](https://www.instagram.com/felipe.city/)
+- [Linkedin](https://www.linkedin.com/in/cidadefelipe/)
