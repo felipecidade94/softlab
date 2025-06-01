@@ -48,7 +48,7 @@ class SoftLab:
         style.configure('TLabel',  padding=10, font=('Arial', 20, 'bold'))
         self.janela_principal.title("SOFTLAB")
         self.janela_principal.geometry("480x780")
-        logo_imagem = Image.open("Logo.png")
+        logo_imagem = Image.open("./src/img/logo.png")
         logo_imagem = logo_imagem.resize((77, 85))
         self.logo_imagem = ImageTk.PhotoImage(logo_imagem)
         logo_label = Label(self.janela_principal, image=self.logo_imagem)
@@ -597,7 +597,7 @@ class SoftLab:
             messagebox.showerror('ERRO', 'Faça login como administrador primeiro!')
 
     def tocar_musica(self):
-        nome_musica = 'Contato.mp3'
+        nome_musica = './src/music/contato.mp3'
         pygame.mixer.music.load(nome_musica)
         pygame.mixer.music.set_volume(0.2)
         pygame.mixer.music.play(-1)
