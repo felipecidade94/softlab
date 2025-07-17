@@ -1,1 +1,1 @@
-softlab.db
+self.cursor = self.conexao.cursor()
