@@ -15,7 +15,7 @@ class SoftLab:
         self.login_aluno_ativo = False
         self.login_adm_ativo = False
         self.tocando_musica = True
-        self.play_pause = "PAUSE" if self.tocando_musica == True else "PLAY"
+        self.play_pause = "PAUSE" if self.tocando_musica else "PLAY"
         pygame.mixer.init()
         self.tocar_musica()
         self.janela_principal.mainloop()
